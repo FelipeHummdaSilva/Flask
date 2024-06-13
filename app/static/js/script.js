@@ -1,0 +1,1 @@
+console.log('Não é tecnologia, é feitiçaria')
